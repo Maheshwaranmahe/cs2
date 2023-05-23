@@ -276,7 +276,7 @@ footer .box-container .box h3{
     color: black;
 }
 
-@media screen and (max-width:440px){
+@media screen and (max-width:500px){
     .flex {
         width: 100%;
         height: auto;
